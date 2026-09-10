@@ -68,9 +68,9 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-10 border-t border-neutral-200 pt-6 text-xs text-neutral-400 dark:border-neutral-800">
-          © {new Date().getFullYear()} Flowmint.
-        </div>
+<div className="mt-10 border-t border-neutral-200 pt-6 text-xs text-neutral-400 dark:border-neutral-800">
+  © {new Date().getFullYear()} TaskFlow · Built by Aman Kumar.
+</div>
       </div>
     </footer>
   );
