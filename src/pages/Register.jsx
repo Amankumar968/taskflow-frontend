@@ -114,7 +114,7 @@ function Register() {
                   <input
                     type="email"
                     className="w-full border-none bg-transparent outline-none"
-                    placeholder="you@example.com"
+                    placeholder="Enter your email address"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                   />
